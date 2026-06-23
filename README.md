@@ -3,6 +3,9 @@ Android: 11
 Build: UMX_U696CL_V11.01.02.03.231198
 CARRIER: ASSURANCE WIRELESS
 
+The phone was rooted using deadman96385/umx_u696cl_dump boot.img.
+Kernel build mismatch causes wifi to fail. Backup kernel image from the recovery partition was used to create this new boot.img.
+
 Files for anybody who needs them. Included:
 
 76c8dd2a729b8c6f33b98e7713d0f3e5808a1c0e7dce3e232a710fa15953ff18  boot.img
